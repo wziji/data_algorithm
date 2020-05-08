@@ -1,4 +1,4 @@
-# data_algorithm 学习资料，欢迎补充
+# data_algorithm 交流群学习资料，欢迎补充
 
 
 ## TensorFlow
@@ -12,7 +12,7 @@
 ## Keras
 + python深度学习.pdf
 
-百度网盘链接: https://pan.baidu.com/s/1GRBL5WvxHj79i9Rs28AshQ 提取码: dpnf
+	> 百度网盘链接: https://pan.baidu.com/s/1GRBL5WvxHj79i9Rs28AshQ 提取码: dpnf
 
 
 
