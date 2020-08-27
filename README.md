@@ -35,33 +35,33 @@
 
 ## 1. 大数据大杂烩
 
-+ 大数据入门指南： [https://www.bookstack.cn/read/BigData-Notes/notes-Hive%E8%A7%86%E5%9B%BE%E5%92%8C%E7%B4%A2%E5%BC%95.md](https://www.bookstack.cn/read/BigData-Notes/notes-Hive%E8%A7%86%E5%9B%BE%E5%92%8C%E7%B4%A2%E5%BC%95.md)
++ [大数据入门指南](https://www.bookstack.cn/read/BigData-Notes/notes-Hive%E8%A7%86%E5%9B%BE%E5%92%8C%E7%B4%A2%E5%BC%95.md)
 
 包含：
 
-+ 一、 Hadoop
+> 一、 Hadoop
 
-+ 二、 Hive
+> 二、 Hive
 
-+ 三、 Spark
+> 三、 Spark
 
-+ 四、 Storm
+> 四、 Storm
 
-+ 五、 Flink
+> 五、 Flink
 
-+ 六、 HBase
+> 六、 HBase
 
-+ 七、 Kafka
+> 七、 Kafka
 
-+ 八、 Zookeeper
+> 八、 Zookeeper
 
-+ 九、 Flume
+> 九、 Flume
 
-+ 十、 Sqoop
+> 十、 Sqoop
 
-+ 十一、 Azkaban
+> 十一、 Azkaban
 
-+ 十二、 Scala
+> 十二、 Scala
 
 
 
